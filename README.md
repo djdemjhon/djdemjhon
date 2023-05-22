@@ -14,12 +14,13 @@ I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 
 ## Web Frameworks
 <span style="display: inline;">
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/laravel-icon.svg" alt="Laravel" width="17" height="17" style="vertical-align: middle;">
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/laravel-icon.svg" alt="Laravel" width="15" height="15" style="vertical-align: middle;">
   Laravel
 </span>
+  
 
 <span style="display: inline;">
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ruby-on-rails-icon.svg" alt="Ruby on Rails" width="14" height="14" style="vertical-align: middle;">
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ruby-on-rails-icon.svg" alt="Ruby on Rails" width="15" height="15" style="vertical-align: middle;">
   Ruby on Rails
 </span>
 
