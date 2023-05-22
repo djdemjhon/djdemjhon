@@ -8,9 +8,9 @@
 I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, storage nodes, delivery nodes, and origin servers). Database Management. 
     
     I'm also expert when it comes to web server configurations like Apache and Nginx both Windows and Linux OS.
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/nginx-icon.svg" width="55" height="25" style="vertical-align: middle;">
+  <img src="" width="55" height="25" style="vertical-align: middle;">
 </div>
-I'm also expert when it comes to web server configurations like Apache and Nginx both Windows and Linux OS.
+
 </div>
    
 </div>
