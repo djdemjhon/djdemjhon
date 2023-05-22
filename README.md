@@ -13,18 +13,40 @@ I'm filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 
 
 ## OS
-<div style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px; margin-right: 10px;">
-  <a href="https://github.com/sample" style="display: flex; align-items: center; color: white; text-decoration: none;">
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34" style="margin-right: 5px;">
+<div class="icon-box">
+  <a href="https://github.com/sample">
+    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34">
     <span>Windows</span>
   </a>
 </div>
 
-<div style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px; margin-right: 10px;">
-  <a href="https://github.com/sample" style="display: flex; align-items: center; color: white; text-decoration: none;">
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg" alt="Linux" width="34" height="34" style="margin-right: 5px;">
+<div class="icon-box">
+  <a href="https://github.com/sample">
+    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg" alt="Linux" width="34" height="34">
     <span>Linux</span>
   </a>
 </div>
+
+<style>
+.icon-box {
+  display: inline-block;
+  background-color: black;
+  padding: 5px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.icon-box a {
+  display: flex;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+}
+
+.icon-box img {
+  margin-right: 5px;
+}
+</style>
+
 
 
