@@ -15,7 +15,7 @@ I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
   
   
   
-## Projects ##gae
+## Projects
 
 - [Project 1](https://github.com/djdemjhon/picturer)
 
