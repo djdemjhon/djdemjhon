@@ -5,11 +5,8 @@
   <div>
  
   <p align="center">  I'm <b> Demjhon Snelby </b>- Full Stack Web developer </p>
-I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, storage nodes, delivery nodes, and origin servers). Database Management. 
-    
-    I'm also expert when it comes to web server configurations like Apache and Nginx both Windows and Linux OS.
-  <img src="" width="55" height="25" style="vertical-align: middle;">
-</div>
+I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, storage nodes, delivery nodes, and origin servers). Database Management.  I'm also expert when it comes to web server configurations like Apache and Nginx both Windows and Linux OS.
+
 
 </div>
    
