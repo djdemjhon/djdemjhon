@@ -13,40 +13,10 @@ I'm filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 
 
 ## OS
-<div class="icon-box">
-  <a href="https://github.com/sample">
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34">
-    <span>Windows</span>
-  </a>
-</div>
+- [![Windows](https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg)](https://github.com/sample) Windows
+- [![Linux](https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg)](https://github.com/sample) Linux
 
-<div class="icon-box">
-  <a href="https://github.com/sample">
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg" alt="Linux" width="34" height="34">
-    <span>Linux</span>
-  </a>
-</div>
 
-<style>
-.icon-box {
-  display: inline-block;
-  background-color: black;
-  padding: 5px;
-  border-radius: 5px;
-  margin-right: 10px;
-}
-
-.icon-box a {
-  display: flex;
-  align-items: center;
-  color: white;
-  text-decoration: none;
-}
-
-.icon-box img {
-  margin-right: 5px;
-}
-</style>
 
 
 
