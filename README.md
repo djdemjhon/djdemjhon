@@ -14,13 +14,10 @@ I'm filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 ## Projects
 
 - [Project 1](https://github.com/myusername/project1)
-- [Project 2](https://github.com/myusername/project2)
-- [Project 3](https://github.com/myusername/project3)
 
-## Skills
 
-- HTML
-- CSS
+## Programming Languages
+
 - JavaScript
 - PHP
 - Ruby
