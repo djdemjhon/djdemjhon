@@ -1,4 +1,4 @@
-##  <p align="center">Wazzap Mate! 😊 </p>
+##  <p align="right">Wazzap Mate! 😊 </p>
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
