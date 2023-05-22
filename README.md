@@ -18,6 +18,15 @@ I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
   
 -  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ruby-on-rails-icon.svg" alt="Laravel" width="34" height="34"> Ruby on Rails
 
+  <p align="center">
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/laravel-icon.svg" alt="Laravel" width="34" height="34"> Laravel
+</p>
+
+<p align="center">
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ruby-on-rails-icon.svg" alt="Ruby on Rails" width="34" height="34"> Ruby on Rails
+</p>
+
+  
 ## Operating System
 
 - <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34">
