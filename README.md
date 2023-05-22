@@ -13,9 +13,14 @@ I'm filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 
 
 ## OS
-- <a href="https://github.com/djdemjhon">
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34">Windows
-</a>
-- <a href="https://github.com/djdemjhon">
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg" alt="Linux" width="34" height="34">Linux
-</a>
+<div>
+  <a href="https://github.com/sample" style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34">
+    Windows
+  </a>
+  <a href="https://github.com/sample" style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg" alt="Linux" width="34" height="34">
+    Linux
+  </a>
+</div>
+
