@@ -5,7 +5,7 @@
 I'm filipino, expertise in Cloud Computing, experienced in CDN (control nodes, storage nodes, delivery nodes, and origin servers). Database Management. I'm also expert when it comes to web server configurations like Apache and Nginx both Windows and Linux OS.
 
 <a href="https://tiktok.com/@demjhonsnelby" target="_blank">
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg" alt="PHP" width="34" height="34">
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg" alt="Tiktok" width="34" height="34">
 </a>
 
 
@@ -13,5 +13,9 @@ I'm filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 
 
 ## OS
-- Windows
-- Linux
+- <a href="https://github.com/djdemjhon">
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34">Windows
+</a>
+- <a href="https://github.com/djdemjhon">
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg" alt="Linux" width="34" height="34">Linux
+</a>
