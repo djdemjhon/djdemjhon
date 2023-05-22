@@ -13,14 +13,18 @@ I'm filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 
 
 ## OS
-<div>
-  <a href="https://github.com/sample" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34">
-   
-  </a>
-  <a href="https://github.com/sample" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linux-icon.svg" alt="Linux" width="34" height="34">
-    
+<div style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px; margin-right: 10px;">
+  <a href="https://github.com/sample" style="display: flex; align-items: center; color: white; text-decoration: none;">
+    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34" style="margin-right: 5px;">
+    <span>Windows</span>
   </a>
 </div>
+
+<div style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px; margin-right: 10px;">
+  <a href="https://github.com/sample" style="display: flex; align-items: center; color: white; text-decoration: none;">
+    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg" alt="Linux" width="34" height="34" style="margin-right: 5px;">
+    <span>Linux</span>
+  </a>
+</div>
+
 
