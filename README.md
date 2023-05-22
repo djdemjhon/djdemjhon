@@ -13,8 +13,8 @@ I'm filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 
 
 ## OS
-- [![Windows](https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg)](https://github.com/sample) Windows
-- [![Linux](https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg)](https://github.com/sample) Linux
+- [![Windows](https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg)](https://github.com/sample)
+- [![Linux](https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linux-icon.svg)](https://github.com/sample)
 
 
 
