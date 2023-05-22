@@ -13,27 +13,18 @@ I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 - [Project 1](https://github.com/myusername/project1)
 
 ## Web Frameworks
-<span style="display: inline; margin-right:25px;">
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/laravel-icon.svg" alt="Laravel" width="15" height="15" style="vertical-align: middle;">
+<span style="display: inline;">
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/laravel-icon.svg" alt="Laravel" width="15" height="15" style="vertical-align: middle; margin-right:25px;">
   Laravel
 </span>
   
 
-<span style="display: inline; margin-right:25px;">
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ruby-on-rails-icon.svg" alt="Ruby on Rails" width="15" height="15" style="vertical-align: middle;">
+<span style="display: inline;">
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ruby-on-rails-icon.svg" alt="Ruby on Rails" width="15" height="15" style="vertical-align: middle; margin-right:25px;">
   Ruby on Rails
 </span>
 
 
-<span style="display: inline; margin-right: 10px;">
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/laravel-icon.svg" alt="Laravel" width="34" height="34" style="vertical-align: middle;">
-  Laravel
-</span>
-|
-<span style="display: inline; margin-right: 10px;">
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ruby-on-rails-icon.svg" alt="Ruby on Rails" width="34" height="34" style="vertical-align: middle;">
-  Ruby on Rails
-</span>
 
   
 ## Operating System
