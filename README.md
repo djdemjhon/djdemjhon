@@ -13,7 +13,7 @@ I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 - [Project 1](https://github.com/myusername/project1)
 
 ## Web Frameworks
-<span style="display: inline;">
+<span style="display: inline; margin-right:5px;">
   <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/laravel-icon.svg" alt="Laravel" width="15" height="15" style="vertical-align: middle;">
   Laravel
 </span>
