@@ -29,7 +29,7 @@ I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
   <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/laravel-icon.svg" alt="Laravel" width="34" height="34" style="vertical-align: middle;">
   Laravel
 </span>
-
+|
 <span style="display: inline; margin-right: 10px;">
   <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ruby-on-rails-icon.svg" alt="Ruby on Rails" width="34" height="34" style="vertical-align: middle;">
   Ruby on Rails
@@ -38,9 +38,9 @@ I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
   
 ## Operating System
 
-- <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34">
+- <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="15" height="15"> Windows
 
-- <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linux-icon.svg" alt="Linux" width="34" height="34">
+- <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linux-icon.svg" alt="Linux" width="15" height="15"> Linux
 
 
 
