@@ -1,6 +1,6 @@
 ##  <p align="center">Wazzap Mate! 😊 </p>
 
-## Project description:
+## Welcome to my Page:
 
 Programming Languages:
 
