@@ -5,9 +5,14 @@
   <div>
  
   <p align="center">  I'm <b> Demjhon Snelby </b>- Full Stack Web developer </p>
-I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, storage nodes, delivery nodes, and origin servers). Database Management. I'm also expert when it comes to web server configurations like Apache and Nginx both Windows and Linux OS.
+I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, storage nodes, delivery nodes, and origin servers). Database Management. I'm also expert when it comes to web server configurations like Apache and 
+ <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/nginx-icon.svg" width="15" height="15" style="vertical-align: middle;">
+    Nginx both Windows and Linux OS.
 </div>
 
+  
+  
+  
 ## Projects
 
 - [Project 1](https://github.com/djdemjhon/picturer)
