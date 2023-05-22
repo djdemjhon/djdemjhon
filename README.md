@@ -16,11 +16,11 @@ I'm filipino, expertise in Cloud Computing, experienced in CDN (control nodes, s
 <div>
   <a href="https://github.com/sample" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34">
-    Windows
+   
   </a>
   <a href="https://github.com/sample" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/tiktok-app-icon.svg" alt="Linux" width="34" height="34">
-    Linux
+    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linux-icon.svg" alt="Linux" width="34" height="34">
+    
   </a>
 </div>
 
