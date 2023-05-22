@@ -3,30 +3,25 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
   <div>
-    <h1>My Profile</h1>
-    <p>Welcome to my GitHub profile!</p>
-  </div>
  
-  <p align="center"> <b> I'm Demjhon Snelby </b>- Full Stack Web developer </p>
-I'm filipino, expertise in Cloud Computing, experienced in CDN (control nodes, storage nodes, delivery nodes, and origin servers). Database Management. I'm also expert when it comes to web server configurations like Apache and Nginx both Windows and Linux OS.
+  <p align="center">  I'm <b> Demjhon Snelby </b>- Full Stack Web developer </p>
+I'm Filipino, expertise in Cloud Computing, experienced in CDN (control nodes, storage nodes, delivery nodes, and origin servers). Database Management. I'm also expert when it comes to web server configurations like Apache and Nginx both Windows and Linux OS.
 </div>
 
 ## Projects
 
 - [Project 1](https://github.com/myusername/project1)
 
-
-## Programming Languages
-
-- JavaScript
-- PHP
-- Ruby
-- Python
-
 ## Web Frameworks
 
 - Laravel
 - Ruby on Rails
+
+## Operating System
+
+- <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="34" height="34">
+
+- <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linux-icon.svg" alt="Linux" width="34" height="34">
 
 
 
