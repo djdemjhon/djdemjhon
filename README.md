@@ -15,7 +15,7 @@ Ruby and PHP
   
 ## Projects
 
-- [Ruby simple web app ](https://github.com/djdemjhon/picturer-ruby)
+- [Ruby simple web app ](https://github.com/djdemjhon/ruby-picturer)
 
 ## Web Frameworks
 <span style="display: inline;">
