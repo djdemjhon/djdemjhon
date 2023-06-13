@@ -1,8 +1,8 @@
 <div style="display: flex; justify-content: space-between; align-items: center; background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
   <div>
  
-  <p align="center">  I'm <b> Demjhon Snelby </b>- Full Stack Web developer </p>
-Expertise in Cloud Computing, experienced in CDN (control nodes, storage nodes, delivery nodes, and origin servers). Database Management.  I'm also expert when it comes to web server configurations like Apache and Nginx both Windows and Linux OS.
+  <p align="center">  I'm <b> DJ Dogzie </b>- Full Stack Web developer </p>
+
 
 
 </div>
